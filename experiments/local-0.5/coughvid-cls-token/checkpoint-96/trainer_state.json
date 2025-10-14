@@ -1,0 +1,76 @@
+{
+  "best_metric": 0.6105970144271851,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/local-0.5/coughvid-cls-token/checkpoint-96",
+  "epoch": 4.0,
+  "global_step": 96,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 0.6404,
+      "step": 24
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.5458582043647766,
+      "eval_loss": 0.6389036774635315,
+      "eval_runtime": 9.6279,
+      "eval_samples_per_second": 38.222,
+      "eval_steps_per_second": 2.389,
+      "step": 24
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.5e-05,
+      "loss": 0.5362,
+      "step": 48
+    },
+    {
+      "epoch": 2.0,
+      "eval_auroc": 0.5130597352981567,
+      "eval_loss": 0.6016302108764648,
+      "eval_runtime": 9.3781,
+      "eval_samples_per_second": 39.24,
+      "eval_steps_per_second": 2.453,
+      "step": 48
+    },
+    {
+      "epoch": 3.0,
+      "learning_rate": 4.25e-05,
+      "loss": 0.5324,
+      "step": 72
+    },
+    {
+      "epoch": 3.0,
+      "eval_auroc": 0.5629477500915527,
+      "eval_loss": 0.579555094242096,
+      "eval_runtime": 9.9147,
+      "eval_samples_per_second": 37.117,
+      "eval_steps_per_second": 2.32,
+      "step": 72
+    },
+    {
+      "epoch": 4.0,
+      "learning_rate": 4e-05,
+      "loss": 0.5219,
+      "step": 96
+    },
+    {
+      "epoch": 4.0,
+      "eval_auroc": 0.6105970144271851,
+      "eval_loss": 0.6142200827598572,
+      "eval_runtime": 6.5603,
+      "eval_samples_per_second": 56.095,
+      "eval_steps_per_second": 3.506,
+      "step": 96
+    }
+  ],
+  "max_steps": 480,
+  "num_train_epochs": 20,
+  "total_flos": 0.0,
+  "trial_name": null,
+  "trial_params": null
+}

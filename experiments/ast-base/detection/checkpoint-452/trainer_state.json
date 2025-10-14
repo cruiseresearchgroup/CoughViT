@@ -1,0 +1,76 @@
+{
+  "best_metric": 0.9724169969558716,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/ast-base/detection/checkpoint-452",
+  "epoch": 4.0,
+  "global_step": 452,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 0.3598,
+      "step": 113
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.9564172029495239,
+      "eval_loss": 0.2251845747232437,
+      "eval_runtime": 67.3749,
+      "eval_samples_per_second": 88.223,
+      "eval_steps_per_second": 5.521,
+      "step": 113
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.5e-05,
+      "loss": 0.1641,
+      "step": 226
+    },
+    {
+      "epoch": 2.0,
+      "eval_auroc": 0.9689373970031738,
+      "eval_loss": 0.20206475257873535,
+      "eval_runtime": 60.8511,
+      "eval_samples_per_second": 97.681,
+      "eval_steps_per_second": 6.113,
+      "step": 226
+    },
+    {
+      "epoch": 3.0,
+      "learning_rate": 4.25e-05,
+      "loss": 0.122,
+      "step": 339
+    },
+    {
+      "epoch": 3.0,
+      "eval_auroc": 0.9662621021270752,
+      "eval_loss": 0.21155285835266113,
+      "eval_runtime": 64.0209,
+      "eval_samples_per_second": 92.845,
+      "eval_steps_per_second": 5.811,
+      "step": 339
+    },
+    {
+      "epoch": 4.0,
+      "learning_rate": 4e-05,
+      "loss": 0.09,
+      "step": 452
+    },
+    {
+      "epoch": 4.0,
+      "eval_auroc": 0.9724169969558716,
+      "eval_loss": 0.20409582555294037,
+      "eval_runtime": 51.2088,
+      "eval_samples_per_second": 116.074,
+      "eval_steps_per_second": 7.264,
+      "step": 452
+    }
+  ],
+  "max_steps": 2260,
+  "num_train_epochs": 20,
+  "total_flos": 2.974877623443456e+17,
+  "trial_name": null,
+  "trial_params": null
+}

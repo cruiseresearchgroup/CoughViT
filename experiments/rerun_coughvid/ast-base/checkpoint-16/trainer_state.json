@@ -1,0 +1,46 @@
+{
+  "best_metric": 0.6310679316520691,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/rerun_coughvid/ast-base/checkpoint-16",
+  "epoch": 2.0,
+  "global_step": 16,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 1.1654,
+      "step": 8
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.3334951400756836,
+      "eval_loss": 0.5115599036216736,
+      "eval_runtime": 2.9418,
+      "eval_samples_per_second": 41.811,
+      "eval_steps_per_second": 2.719,
+      "step": 8
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.5e-05,
+      "loss": 0.615,
+      "step": 16
+    },
+    {
+      "epoch": 2.0,
+      "eval_auroc": 0.6310679316520691,
+      "eval_loss": 0.5669293403625488,
+      "eval_runtime": 3.1747,
+      "eval_samples_per_second": 38.744,
+      "eval_steps_per_second": 2.52,
+      "step": 16
+    }
+  ],
+  "max_steps": 160,
+  "num_train_epochs": 20,
+  "total_flos": 3.3436949318467584e+16,
+  "trial_name": null,
+  "trial_params": null
+}

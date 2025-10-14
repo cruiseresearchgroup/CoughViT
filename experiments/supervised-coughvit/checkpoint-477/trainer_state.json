@@ -1,0 +1,58 @@
+{
+  "best_metric": 0.13052672147750854,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/supervised-coughvit/checkpoint-159",
+  "epoch": 3.0,
+  "global_step": 477,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.9500000000000004e-05,
+      "loss": 0.1443,
+      "step": 159
+    },
+    {
+      "epoch": 1.0,
+      "eval_loss": 0.13052672147750854,
+      "eval_runtime": 36.2667,
+      "eval_samples_per_second": 73.704,
+      "eval_steps_per_second": 1.847,
+      "step": 159
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.9e-05,
+      "loss": 0.1343,
+      "step": 318
+    },
+    {
+      "epoch": 2.0,
+      "eval_loss": 0.1313149333000183,
+      "eval_runtime": 34.8836,
+      "eval_samples_per_second": 76.626,
+      "eval_steps_per_second": 1.921,
+      "step": 318
+    },
+    {
+      "epoch": 3.0,
+      "learning_rate": 4.85e-05,
+      "loss": 0.1338,
+      "step": 477
+    },
+    {
+      "epoch": 3.0,
+      "eval_loss": 0.13234013319015503,
+      "eval_runtime": 35.6316,
+      "eval_samples_per_second": 75.018,
+      "eval_steps_per_second": 1.88,
+      "step": 477
+    }
+  ],
+  "max_steps": 15900,
+  "num_train_epochs": 100,
+  "total_flos": 0.0,
+  "trial_name": null,
+  "trial_params": null
+}

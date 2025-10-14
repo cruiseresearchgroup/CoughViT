@@ -1,0 +1,46 @@
+{
+  "best_metric": 0.6292221546173096,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/coughvit-base/d2-pool/checkpoint-26",
+  "epoch": 2.0,
+  "global_step": 26,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 0.6155,
+      "step": 13
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.5398571491241455,
+      "eval_loss": 0.4820536971092224,
+      "eval_runtime": 3.1751,
+      "eval_samples_per_second": 59.84,
+      "eval_steps_per_second": 3.779,
+      "step": 13
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.5e-05,
+      "loss": 0.4756,
+      "step": 26
+    },
+    {
+      "epoch": 2.0,
+      "eval_auroc": 0.6292221546173096,
+      "eval_loss": 0.4674800634384155,
+      "eval_runtime": 2.9762,
+      "eval_samples_per_second": 63.839,
+      "eval_steps_per_second": 4.032,
+      "step": 26
+    }
+  ],
+  "max_steps": 260,
+  "num_train_epochs": 20,
+  "total_flos": 0.0,
+  "trial_name": null,
+  "trial_params": null
+}

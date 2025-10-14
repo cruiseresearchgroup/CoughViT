@@ -1,0 +1,91 @@
+{
+  "best_metric": 0.9481488466262817,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/supervised-coughvit/detection-cls-token/checkpoint-565",
+  "epoch": 5.0,
+  "global_step": 565,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 0.3589,
+      "step": 113
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.9174171686172485,
+      "eval_loss": 0.3381964862346649,
+      "eval_runtime": 69.5474,
+      "eval_samples_per_second": 85.467,
+      "eval_steps_per_second": 5.349,
+      "step": 113
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.5e-05,
+      "loss": 0.1875,
+      "step": 226
+    },
+    {
+      "epoch": 2.0,
+      "eval_auroc": 0.942152738571167,
+      "eval_loss": 0.2815219759941101,
+      "eval_runtime": 70.5716,
+      "eval_samples_per_second": 84.227,
+      "eval_steps_per_second": 5.271,
+      "step": 226
+    },
+    {
+      "epoch": 3.0,
+      "learning_rate": 4.25e-05,
+      "loss": 0.1398,
+      "step": 339
+    },
+    {
+      "epoch": 3.0,
+      "eval_auroc": 0.946440577507019,
+      "eval_loss": 0.2809605598449707,
+      "eval_runtime": 66.0887,
+      "eval_samples_per_second": 89.94,
+      "eval_steps_per_second": 5.629,
+      "step": 339
+    },
+    {
+      "epoch": 4.0,
+      "learning_rate": 4e-05,
+      "loss": 0.109,
+      "step": 452
+    },
+    {
+      "epoch": 4.0,
+      "eval_auroc": 0.9416455626487732,
+      "eval_loss": 0.3331475555896759,
+      "eval_runtime": 67.5976,
+      "eval_samples_per_second": 87.932,
+      "eval_steps_per_second": 5.503,
+      "step": 452
+    },
+    {
+      "epoch": 5.0,
+      "learning_rate": 3.7500000000000003e-05,
+      "loss": 0.0784,
+      "step": 565
+    },
+    {
+      "epoch": 5.0,
+      "eval_auroc": 0.9481488466262817,
+      "eval_loss": 0.3066628873348236,
+      "eval_runtime": 71.3946,
+      "eval_samples_per_second": 83.256,
+      "eval_steps_per_second": 5.21,
+      "step": 565
+    }
+  ],
+  "max_steps": 2260,
+  "num_train_epochs": 20,
+  "total_flos": 0.0,
+  "trial_name": null,
+  "trial_params": null
+}

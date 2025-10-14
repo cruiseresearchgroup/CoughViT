@@ -1,0 +1,101 @@
+[
+    {
+        "loss": 1.3489,
+        "learning_rate": 4.75e-05,
+        "epoch": 1.0,
+        "step": 8
+    },
+    {
+        "eval_loss": 0.36541420221328735,
+        "eval_auroc": 0.5614678859710693,
+        "eval_runtime": 2.895,
+        "eval_samples_per_second": 42.833,
+        "eval_steps_per_second": 2.763,
+        "epoch": 1.0,
+        "step": 8
+    },
+    {
+        "loss": 0.5134,
+        "learning_rate": 4.5e-05,
+        "epoch": 2.0,
+        "step": 16
+    },
+    {
+        "eval_loss": 0.3745516240596771,
+        "eval_auroc": 0.3938837945461273,
+        "eval_runtime": 2.5335,
+        "eval_samples_per_second": 48.943,
+        "eval_steps_per_second": 3.158,
+        "epoch": 2.0,
+        "step": 16
+    },
+    {
+        "loss": 0.4416,
+        "learning_rate": 4.25e-05,
+        "epoch": 3.0,
+        "step": 24
+    },
+    {
+        "eval_loss": 0.36345261335372925,
+        "eval_auroc": 0.6360856294631958,
+        "eval_runtime": 2.7176,
+        "eval_samples_per_second": 45.628,
+        "eval_steps_per_second": 2.944,
+        "epoch": 3.0,
+        "step": 24
+    },
+    {
+        "loss": 0.4464,
+        "learning_rate": 4e-05,
+        "epoch": 4.0,
+        "step": 32
+    },
+    {
+        "eval_loss": 0.39706164598464966,
+        "eval_auroc": 0.6360856294631958,
+        "eval_runtime": 2.7137,
+        "eval_samples_per_second": 45.694,
+        "eval_steps_per_second": 2.948,
+        "epoch": 4.0,
+        "step": 32
+    },
+    {
+        "loss": 0.435,
+        "learning_rate": 3.7500000000000003e-05,
+        "epoch": 5.0,
+        "step": 40
+    },
+    {
+        "eval_loss": 0.36872735619544983,
+        "eval_auroc": 0.6012232303619385,
+        "eval_runtime": 2.4101,
+        "eval_samples_per_second": 51.45,
+        "eval_steps_per_second": 3.319,
+        "epoch": 5.0,
+        "step": 40
+    },
+    {
+        "loss": 0.4236,
+        "learning_rate": 3.5e-05,
+        "epoch": 6.0,
+        "step": 48
+    },
+    {
+        "eval_loss": 0.3505951166152954,
+        "eval_auroc": 0.6079511046409607,
+        "eval_runtime": 2.5215,
+        "eval_samples_per_second": 49.177,
+        "eval_steps_per_second": 3.173,
+        "epoch": 6.0,
+        "step": 48
+    },
+    {
+        "train_runtime": 79.7709,
+        "train_samples_per_second": 124.105,
+        "train_steps_per_second": 2.006,
+        "total_flos": 0.0,
+        "train_loss": 0.6014814525842667,
+        "epoch": 6.0,
+        "step": 48
+    }
+]

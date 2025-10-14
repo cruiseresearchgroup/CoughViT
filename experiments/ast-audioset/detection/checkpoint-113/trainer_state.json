@@ -1,0 +1,31 @@
+{
+  "best_metric": 0.9833352565765381,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/ast-audioset/detection/checkpoint-113",
+  "epoch": 1.0,
+  "global_step": 113,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 0.1579,
+      "step": 113
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.9833352565765381,
+      "eval_loss": 0.16373535990715027,
+      "eval_runtime": 66.5353,
+      "eval_samples_per_second": 89.336,
+      "eval_steps_per_second": 5.591,
+      "step": 113
+    }
+  ],
+  "max_steps": 2260,
+  "num_train_epochs": 20,
+  "total_flos": 7.43719405860864e+16,
+  "trial_name": null,
+  "trial_params": null
+}

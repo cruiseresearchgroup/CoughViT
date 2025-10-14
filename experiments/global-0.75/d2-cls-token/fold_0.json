@@ -1,0 +1,161 @@
+[
+    {
+        "loss": 0.5731,
+        "learning_rate": 4.75e-05,
+        "epoch": 1.0,
+        "step": 13
+    },
+    {
+        "eval_loss": 0.5034240484237671,
+        "eval_auroc": 0.6790655851364136,
+        "eval_runtime": 4.6579,
+        "eval_samples_per_second": 41.649,
+        "eval_steps_per_second": 2.791,
+        "epoch": 1.0,
+        "step": 13
+    },
+    {
+        "loss": 0.4588,
+        "learning_rate": 4.5e-05,
+        "epoch": 2.0,
+        "step": 26
+    },
+    {
+        "eval_loss": 0.5107311010360718,
+        "eval_auroc": 0.7020664811134338,
+        "eval_runtime": 5.3709,
+        "eval_samples_per_second": 36.121,
+        "eval_steps_per_second": 2.42,
+        "epoch": 2.0,
+        "step": 26
+    },
+    {
+        "loss": 0.4416,
+        "learning_rate": 4.25e-05,
+        "epoch": 3.0,
+        "step": 39
+    },
+    {
+        "eval_loss": 0.4210071265697479,
+        "eval_auroc": 0.7221922278404236,
+        "eval_runtime": 4.5192,
+        "eval_samples_per_second": 42.928,
+        "eval_steps_per_second": 2.877,
+        "epoch": 3.0,
+        "step": 39
+    },
+    {
+        "loss": 0.3524,
+        "learning_rate": 4e-05,
+        "epoch": 4.0,
+        "step": 52
+    },
+    {
+        "eval_loss": 0.4375307857990265,
+        "eval_auroc": 0.731356680393219,
+        "eval_runtime": 4.5575,
+        "eval_samples_per_second": 42.567,
+        "eval_steps_per_second": 2.852,
+        "epoch": 4.0,
+        "step": 52
+    },
+    {
+        "loss": 0.3798,
+        "learning_rate": 3.7500000000000003e-05,
+        "epoch": 5.0,
+        "step": 65
+    },
+    {
+        "eval_loss": 0.5720378160476685,
+        "eval_auroc": 0.7085354924201965,
+        "eval_runtime": 6.0284,
+        "eval_samples_per_second": 32.181,
+        "eval_steps_per_second": 2.156,
+        "epoch": 5.0,
+        "step": 65
+    },
+    {
+        "loss": 0.2671,
+        "learning_rate": 3.5e-05,
+        "epoch": 6.0,
+        "step": 78
+    },
+    {
+        "eval_loss": 0.504883885383606,
+        "eval_auroc": 0.7349505424499512,
+        "eval_runtime": 7.5423,
+        "eval_samples_per_second": 25.722,
+        "eval_steps_per_second": 1.724,
+        "epoch": 6.0,
+        "step": 78
+    },
+    {
+        "loss": 0.166,
+        "learning_rate": 3.2500000000000004e-05,
+        "epoch": 7.0,
+        "step": 91
+    },
+    {
+        "eval_loss": 0.5484639406204224,
+        "eval_auroc": 0.738903820514679,
+        "eval_runtime": 7.1409,
+        "eval_samples_per_second": 27.168,
+        "eval_steps_per_second": 1.821,
+        "epoch": 7.0,
+        "step": 91
+    },
+    {
+        "loss": 0.0966,
+        "learning_rate": 3e-05,
+        "epoch": 8.0,
+        "step": 104
+    },
+    {
+        "eval_loss": 1.0187156200408936,
+        "eval_auroc": 0.6916441917419434,
+        "eval_runtime": 7.4126,
+        "eval_samples_per_second": 26.172,
+        "eval_steps_per_second": 1.754,
+        "epoch": 8.0,
+        "step": 104
+    },
+    {
+        "loss": 0.0449,
+        "learning_rate": 2.7500000000000004e-05,
+        "epoch": 9.0,
+        "step": 117
+    },
+    {
+        "eval_loss": 1.904700517654419,
+        "eval_auroc": 0.7027852535247803,
+        "eval_runtime": 7.3876,
+        "eval_samples_per_second": 26.26,
+        "eval_steps_per_second": 1.76,
+        "epoch": 9.0,
+        "step": 117
+    },
+    {
+        "loss": 0.0515,
+        "learning_rate": 2.5e-05,
+        "epoch": 10.0,
+        "step": 130
+    },
+    {
+        "eval_loss": 1.197972297668457,
+        "eval_auroc": 0.7018868327140808,
+        "eval_runtime": 6.822,
+        "eval_samples_per_second": 28.438,
+        "eval_steps_per_second": 1.906,
+        "epoch": 10.0,
+        "step": 130
+    },
+    {
+        "train_runtime": 276.8988,
+        "train_samples_per_second": 55.688,
+        "train_steps_per_second": 0.939,
+        "total_flos": 0.0,
+        "train_loss": 0.2831736610485957,
+        "epoch": 10.0,
+        "step": 130
+    }
+]

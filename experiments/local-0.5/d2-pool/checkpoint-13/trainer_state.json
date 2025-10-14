@@ -1,0 +1,31 @@
+{
+  "best_metric": 0.6736151576042175,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/local-0.5/d2-pool/checkpoint-13",
+  "epoch": 1.0,
+  "global_step": 13,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 1.047,
+      "step": 13
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.6736151576042175,
+      "eval_loss": 0.7952452301979065,
+      "eval_runtime": 7.5592,
+      "eval_samples_per_second": 25.135,
+      "eval_steps_per_second": 1.587,
+      "step": 13
+    }
+  ],
+  "max_steps": 260,
+  "num_train_epochs": 20,
+  "total_flos": 0.0,
+  "trial_name": null,
+  "trial_params": null
+}

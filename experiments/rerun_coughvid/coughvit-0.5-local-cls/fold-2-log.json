@@ -1,0 +1,161 @@
+[
+    {
+        "loss": 0.7222,
+        "learning_rate": 4.75e-05,
+        "epoch": 1.0,
+        "step": 8
+    },
+    {
+        "eval_loss": 0.41150158643722534,
+        "eval_auroc": 0.4282573163509369,
+        "eval_runtime": 2.3952,
+        "eval_samples_per_second": 51.769,
+        "eval_steps_per_second": 3.34,
+        "epoch": 1.0,
+        "step": 8
+    },
+    {
+        "loss": 0.4644,
+        "learning_rate": 4.5e-05,
+        "epoch": 2.0,
+        "step": 16
+    },
+    {
+        "eval_loss": 0.4318294823169708,
+        "eval_auroc": 0.38537657260894775,
+        "eval_runtime": 2.5408,
+        "eval_samples_per_second": 48.803,
+        "eval_steps_per_second": 3.149,
+        "epoch": 2.0,
+        "step": 16
+    },
+    {
+        "loss": 0.4389,
+        "learning_rate": 4.25e-05,
+        "epoch": 3.0,
+        "step": 24
+    },
+    {
+        "eval_loss": 0.4383344054222107,
+        "eval_auroc": 0.4535459280014038,
+        "eval_runtime": 2.8093,
+        "eval_samples_per_second": 44.139,
+        "eval_steps_per_second": 2.848,
+        "epoch": 3.0,
+        "step": 24
+    },
+    {
+        "loss": 0.4267,
+        "learning_rate": 4e-05,
+        "epoch": 4.0,
+        "step": 32
+    },
+    {
+        "eval_loss": 0.4226183593273163,
+        "eval_auroc": 0.4282572865486145,
+        "eval_runtime": 2.4691,
+        "eval_samples_per_second": 50.22,
+        "eval_steps_per_second": 3.24,
+        "epoch": 4.0,
+        "step": 32
+    },
+    {
+        "loss": 0.4307,
+        "learning_rate": 3.7500000000000003e-05,
+        "epoch": 5.0,
+        "step": 40
+    },
+    {
+        "eval_loss": 0.4559440314769745,
+        "eval_auroc": 0.5656954646110535,
+        "eval_runtime": 2.3719,
+        "eval_samples_per_second": 52.278,
+        "eval_steps_per_second": 3.373,
+        "epoch": 5.0,
+        "step": 40
+    },
+    {
+        "loss": 0.4489,
+        "learning_rate": 3.5e-05,
+        "epoch": 6.0,
+        "step": 48
+    },
+    {
+        "eval_loss": 0.4625614285469055,
+        "eval_auroc": 0.5393073558807373,
+        "eval_runtime": 2.374,
+        "eval_samples_per_second": 52.234,
+        "eval_steps_per_second": 3.37,
+        "epoch": 6.0,
+        "step": 48
+    },
+    {
+        "loss": 0.3982,
+        "learning_rate": 3.2500000000000004e-05,
+        "epoch": 7.0,
+        "step": 56
+    },
+    {
+        "eval_loss": 0.4324783980846405,
+        "eval_auroc": 0.5700935125350952,
+        "eval_runtime": 2.5441,
+        "eval_samples_per_second": 48.741,
+        "eval_steps_per_second": 3.145,
+        "epoch": 7.0,
+        "step": 56
+    },
+    {
+        "loss": 0.3494,
+        "learning_rate": 3e-05,
+        "epoch": 8.0,
+        "step": 64
+    },
+    {
+        "eval_loss": 0.4583587646484375,
+        "eval_auroc": 0.44584935903549194,
+        "eval_runtime": 2.6464,
+        "eval_samples_per_second": 46.856,
+        "eval_steps_per_second": 3.023,
+        "epoch": 8.0,
+        "step": 64
+    },
+    {
+        "loss": 0.317,
+        "learning_rate": 2.7500000000000004e-05,
+        "epoch": 9.0,
+        "step": 72
+    },
+    {
+        "eval_loss": 0.4553813338279724,
+        "eval_auroc": 0.5074216723442078,
+        "eval_runtime": 2.4797,
+        "eval_samples_per_second": 50.006,
+        "eval_steps_per_second": 3.226,
+        "epoch": 9.0,
+        "step": 72
+    },
+    {
+        "loss": 0.3045,
+        "learning_rate": 2.5e-05,
+        "epoch": 10.0,
+        "step": 80
+    },
+    {
+        "eval_loss": 0.4934785068035126,
+        "eval_auroc": 0.5013744235038757,
+        "eval_runtime": 2.435,
+        "eval_samples_per_second": 50.923,
+        "eval_steps_per_second": 3.285,
+        "epoch": 10.0,
+        "step": 80
+    },
+    {
+        "train_runtime": 141.4352,
+        "train_samples_per_second": 69.997,
+        "train_steps_per_second": 1.131,
+        "total_flos": 0.0,
+        "train_loss": 0.4300854831933975,
+        "epoch": 10.0,
+        "step": 80
+    }
+]

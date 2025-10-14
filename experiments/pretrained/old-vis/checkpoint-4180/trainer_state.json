@@ -1,0 +1,72 @@
+{
+  "best_metric": 4.742801666259766,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/visualisation-c19s-audiomae-0.75/checkpoint-4180",
+  "epoch": 10.0,
+  "global_step": 4180,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.2,
+      "learning_rate": 4.940191387559809e-05,
+      "loss": 187.1131,
+      "step": 500
+    },
+    {
+      "epoch": 2.39,
+      "learning_rate": 4.880382775119617e-05,
+      "loss": 22.2677,
+      "step": 1000
+    },
+    {
+      "epoch": 3.59,
+      "learning_rate": 4.820574162679426e-05,
+      "loss": 11.5685,
+      "step": 1500
+    },
+    {
+      "epoch": 4.78,
+      "learning_rate": 4.760765550239234e-05,
+      "loss": 8.5495,
+      "step": 2000
+    },
+    {
+      "epoch": 5.98,
+      "learning_rate": 4.700956937799043e-05,
+      "loss": 7.0974,
+      "step": 2500
+    },
+    {
+      "epoch": 7.18,
+      "learning_rate": 4.641148325358852e-05,
+      "loss": 6.1697,
+      "step": 3000
+    },
+    {
+      "epoch": 8.37,
+      "learning_rate": 4.58133971291866e-05,
+      "loss": 5.5174,
+      "step": 3500
+    },
+    {
+      "epoch": 9.57,
+      "learning_rate": 4.521531100478469e-05,
+      "loss": 5.0135,
+      "step": 4000
+    },
+    {
+      "epoch": 10.0,
+      "eval_loss": 4.742801666259766,
+      "eval_runtime": 48.4566,
+      "eval_samples_per_second": 55.163,
+      "eval_steps_per_second": 3.467,
+      "step": 4180
+    }
+  ],
+  "max_steps": 41800,
+  "num_train_epochs": 100,
+  "total_flos": 0.0,
+  "trial_name": null,
+  "trial_params": null
+}

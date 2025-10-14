@@ -1,0 +1,161 @@
+[
+    {
+        "loss": 0.6415,
+        "learning_rate": 4.75e-05,
+        "epoch": 1.0,
+        "step": 13
+    },
+    {
+        "eval_loss": 0.4516561031341553,
+        "eval_auroc": 0.6774754524230957,
+        "eval_runtime": 8.333,
+        "eval_samples_per_second": 22.801,
+        "eval_steps_per_second": 1.44,
+        "epoch": 1.0,
+        "step": 13
+    },
+    {
+        "loss": 0.4491,
+        "learning_rate": 4.5e-05,
+        "epoch": 2.0,
+        "step": 26
+    },
+    {
+        "eval_loss": 0.45170292258262634,
+        "eval_auroc": 0.7174291014671326,
+        "eval_runtime": 5.0083,
+        "eval_samples_per_second": 37.937,
+        "eval_steps_per_second": 2.396,
+        "epoch": 2.0,
+        "step": 26
+    },
+    {
+        "loss": 0.4162,
+        "learning_rate": 4.25e-05,
+        "epoch": 3.0,
+        "step": 39
+    },
+    {
+        "eval_loss": 0.4322979152202606,
+        "eval_auroc": 0.7245705127716064,
+        "eval_runtime": 5.2393,
+        "eval_samples_per_second": 36.264,
+        "eval_steps_per_second": 2.29,
+        "epoch": 3.0,
+        "step": 39
+    },
+    {
+        "loss": 0.3643,
+        "learning_rate": 4e-05,
+        "epoch": 4.0,
+        "step": 52
+    },
+    {
+        "eval_loss": 0.4819207489490509,
+        "eval_auroc": 0.788264811038971,
+        "eval_runtime": 5.2987,
+        "eval_samples_per_second": 35.858,
+        "eval_steps_per_second": 2.265,
+        "epoch": 4.0,
+        "step": 52
+    },
+    {
+        "loss": 0.3878,
+        "learning_rate": 3.7500000000000003e-05,
+        "epoch": 5.0,
+        "step": 65
+    },
+    {
+        "eval_loss": 0.6900860667228699,
+        "eval_auroc": 0.7790002226829529,
+        "eval_runtime": 2.9684,
+        "eval_samples_per_second": 64.007,
+        "eval_steps_per_second": 4.043,
+        "epoch": 5.0,
+        "step": 65
+    },
+    {
+        "loss": 0.3545,
+        "learning_rate": 3.5e-05,
+        "epoch": 6.0,
+        "step": 78
+    },
+    {
+        "eval_loss": 0.4165455996990204,
+        "eval_auroc": 0.7838255167007446,
+        "eval_runtime": 3.8552,
+        "eval_samples_per_second": 49.285,
+        "eval_steps_per_second": 3.113,
+        "epoch": 6.0,
+        "step": 78
+    },
+    {
+        "loss": 0.2296,
+        "learning_rate": 3.2500000000000004e-05,
+        "epoch": 7.0,
+        "step": 91
+    },
+    {
+        "eval_loss": 0.4839590787887573,
+        "eval_auroc": 0.7957923412322998,
+        "eval_runtime": 5.2431,
+        "eval_samples_per_second": 36.238,
+        "eval_steps_per_second": 2.289,
+        "epoch": 7.0,
+        "step": 91
+    },
+    {
+        "loss": 0.181,
+        "learning_rate": 3e-05,
+        "epoch": 8.0,
+        "step": 104
+    },
+    {
+        "eval_loss": 0.4530663788318634,
+        "eval_auroc": 0.7693495750427246,
+        "eval_runtime": 3.7479,
+        "eval_samples_per_second": 50.696,
+        "eval_steps_per_second": 3.202,
+        "epoch": 8.0,
+        "step": 104
+    },
+    {
+        "loss": 0.0752,
+        "learning_rate": 2.7500000000000004e-05,
+        "epoch": 9.0,
+        "step": 117
+    },
+    {
+        "eval_loss": 0.7279953956604004,
+        "eval_auroc": 0.7722446918487549,
+        "eval_runtime": 6.7119,
+        "eval_samples_per_second": 28.308,
+        "eval_steps_per_second": 1.788,
+        "epoch": 9.0,
+        "step": 117
+    },
+    {
+        "loss": 0.0178,
+        "learning_rate": 2.5e-05,
+        "epoch": 10.0,
+        "step": 130
+    },
+    {
+        "eval_loss": 1.0651975870132446,
+        "eval_auroc": 0.7373093962669373,
+        "eval_runtime": 6.4943,
+        "eval_samples_per_second": 29.257,
+        "eval_steps_per_second": 1.848,
+        "epoch": 10.0,
+        "step": 130
+    },
+    {
+        "train_runtime": 269.1116,
+        "train_samples_per_second": 57.597,
+        "train_steps_per_second": 0.966,
+        "total_flos": 0.0,
+        "train_loss": 0.3116916910960124,
+        "epoch": 10.0,
+        "step": 130
+    }
+]

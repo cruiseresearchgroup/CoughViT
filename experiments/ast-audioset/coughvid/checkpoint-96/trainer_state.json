@@ -1,0 +1,76 @@
+{
+  "best_metric": 0.705447793006897,
+  "best_model_checkpoint": "/mnt/data728/kaixuanchen/thesis/experiments/ast-audioset/coughvid/checkpoint-96",
+  "epoch": 4.0,
+  "global_step": 96,
+  "is_hyper_param_search": false,
+  "is_local_process_zero": true,
+  "is_world_process_zero": true,
+  "log_history": [
+    {
+      "epoch": 1.0,
+      "learning_rate": 4.75e-05,
+      "loss": 0.6191,
+      "step": 24
+    },
+    {
+      "epoch": 1.0,
+      "eval_auroc": 0.6565298438072205,
+      "eval_loss": 0.7334188222885132,
+      "eval_runtime": 6.6898,
+      "eval_samples_per_second": 55.009,
+      "eval_steps_per_second": 3.438,
+      "step": 24
+    },
+    {
+      "epoch": 2.0,
+      "learning_rate": 4.5e-05,
+      "loss": 0.5736,
+      "step": 48
+    },
+    {
+      "epoch": 2.0,
+      "eval_auroc": 0.6887313723564148,
+      "eval_loss": 0.5444653630256653,
+      "eval_runtime": 6.6441,
+      "eval_samples_per_second": 55.387,
+      "eval_steps_per_second": 3.462,
+      "step": 48
+    },
+    {
+      "epoch": 3.0,
+      "learning_rate": 4.25e-05,
+      "loss": 0.49,
+      "step": 72
+    },
+    {
+      "epoch": 3.0,
+      "eval_auroc": 0.6997015476226807,
+      "eval_loss": 0.6414886116981506,
+      "eval_runtime": 7.8389,
+      "eval_samples_per_second": 46.945,
+      "eval_steps_per_second": 2.934,
+      "step": 72
+    },
+    {
+      "epoch": 4.0,
+      "learning_rate": 4e-05,
+      "loss": 0.4998,
+      "step": 96
+    },
+    {
+      "epoch": 4.0,
+      "eval_auroc": 0.705447793006897,
+      "eval_loss": 0.557486355304718,
+      "eval_runtime": 6.893,
+      "eval_samples_per_second": 53.388,
+      "eval_steps_per_second": 3.337,
+      "step": 96
+    }
+  ],
+  "max_steps": 480,
+  "num_train_epochs": 20,
+  "total_flos": 2.006216959108055e+17,
+  "trial_name": null,
+  "trial_params": null
+}
