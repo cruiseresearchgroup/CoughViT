@@ -1,6 +1,6 @@
 # CoughViT
 
-## A Self-Supervised Vision Transformer for Cough Audio Representation Learning**
+## A Self-Supervised Vision Transformer for Cough Audio Representation Learning
 
 ## Abstract
 
